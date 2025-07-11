@@ -75,7 +75,7 @@ A deep learning application that recognizes spoken digits (0-9) using LSTM neura
    ```
 
 ### Option 2: Use Sample Dataset
-- The repository includes sample audio files in `dataset/sample_audio/`
+- The repository includes sample audio files in `dataset/d*/sample_audio/`
 - You can test the application with these samples
 - Add your own recordings to improve the model
 
