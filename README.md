@@ -13,14 +13,11 @@ A deep learning application that recognizes spoken digits (0-9) using LSTM neura
 
 ## 🖥️ Demo
 
-![GUI Interface](screenshots/gui_interface.png)
-
-📹 **[Watch Demo Video](YOUR_DRIVE_VIDEO_LINK_HERE)**
+📹 **[Watch Demo Video](https://drive.google.com/drive/u/1/folders/1Ewm1Tq8ZM3AfP0V6E_4fexOgv6ekF4d8)**
 
 ## 📊 Performance
 
-- **Training Accuracy**: XX%
-- **Validation Accuracy**: XX%
+- **Accuracy**: 95%
 - **Model Architecture**: Bidirectional LSTM with 64 units
 - **Features**: 13 MFCC coefficients
 
@@ -36,7 +33,7 @@ A deep learning application that recognizes spoken digits (0-9) using LSTM neura
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/speech-recognition-digits.git
+   git clone https://github.com/abdelilahbajjou/speech-recognition-digits.git
    cd speech-recognition-digits
    ```
 
@@ -66,7 +63,7 @@ A deep learning application that recognizes spoken digits (0-9) using LSTM neura
 ## 📁 Dataset
 
 ### Option 1: Download Full Dataset
-1. Download the dataset from: [Google Drive Link](YOUR_DATASET_LINK)
+1. Download the dataset from: [Google Drive Link](https://drive.google.com/file/d/1cqtSSpbizNVbypmqs80ecyXWy89jhc28/view?usp=sharing)
 2. Extract the zip file to the project directory
 3. Ensure the structure matches:
    ```
@@ -163,7 +160,7 @@ Input (None, 13) -> Bidirectional LSTM (64) -> Flatten -> Dense (64) -> Dropout 
 
 ## 🎓 Academic Context
 
-This project was developed as part of a speech recognition course at [Your University]. The complete academic report (in French) is available in `docs/academic_report.pdf`.
+This project was developed as part of a speech recognition course at Faculty of Sciences Dhar El Mahraz –FSDM-. The complete academic report (in French) is available in `docs/academic_report.pdf`.
 
 ### Methodology
 1. **Data Collection**: Audio recordings of spoken digits
@@ -186,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- [Your University] for the academic framework
+- Faculty of Sciences Dhar El Mahraz –FSDM- for the academic framework
 - Course instructors for guidance
 - Open source libraries that made this project possible
 
